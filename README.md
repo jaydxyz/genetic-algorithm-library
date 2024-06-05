@@ -77,11 +77,9 @@ fn main() {
 }
 ```
 
-For more detailed examples and usage instructions, please refer to the [examples](examples) directory and the [documentation](docs).
-
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the [contribution guidelines](CONTRIBUTING.md).
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## License
 
